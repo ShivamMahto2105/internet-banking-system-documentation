@@ -114,10 +114,8 @@ The project documentation includes:
 
 ## 👨‍💻 Author
 **Name:** Shivam Kumar Mahto  
-**Role Applied For:** Business Analyst  
 **Email:** [shivammahto2105@gmail.com](mailto:shivammahto2105@gmail.com)  
-**Date:** November 2025  
-**Version:** 1.0  
+**Date:** November 2025 
 
 ---
 

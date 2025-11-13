@@ -84,6 +84,6 @@ This document lists the main team members and stakeholders involved in developin
 ---
 
 **Prepared By:**  
-👤 *Shivam Kumar Mahto* — Business Analyst  
+👤 *Shivam Kumar Mahto* 
 📧 [shivammahto2105@gmail.com](mailto:shivammahto2105@gmail.com)  
 📅 November 2025  

@@ -60,6 +60,6 @@ Using the **Agile Scrum framework**, the project achieved:
 ---
 
 **Prepared By:**  
-👤 *Shivam Kumar Mahto* — Business Analyst  
+👤 *Shivam Kumar Mahto*   
 📧 [shivammahto2105@gmail.com](mailto:shivammahto2105@gmail.com)  
 📅 November 2025  
